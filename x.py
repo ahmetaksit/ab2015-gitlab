@@ -1,1 +1,1 @@
-print "bu dosya gecici olarak oluşturuldu"
+print "bu dosya gecici olarak oluşturuldu".cantekin buna ekleme yaptı
