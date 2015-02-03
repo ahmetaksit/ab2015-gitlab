@@ -1,0 +1,124 @@
+    1  ls -la
+    2  cd Documents
+    3  cd IYTEGitDeneme
+    4  ls -la
+    5  cd..
+    6  del
+    7  mv
+    8  mv --help
+    9  rm
+   10  rm --help
+   11  rm -R IYTEGitDeneme
+   12  ls -la
+   13  mkdir IYTE-Git-test
+   14  ls -la
+   15  cd IYTE-Git-test
+   16  ls -la
+   17  git init
+   18  ls -la
+   19  rm .git
+   20  rm -r .git
+   21  ls -la
+   22  git flow init
+   23  ls -la
+   24  ssh git@github.com
+   25  ssh ahmetaksit@gmail.com
+   26  cd ~/.ssh
+   27  ls -la
+   28  nano known_hosts
+   29  cd ..
+   30  cd ~/Documents/IYTE-Git-test
+   31  ls -la
+   32  ssh-keygen -t rsa -C "ahmetaksit@gmail.com"
+   33  ls -la
+   34  cd ~/.ssh
+   35  ls -la
+   36  clip < ~/.ssh/id_rsa.pub
+   37  nano id_rsa.pub
+   38  cat id_rsa.pub
+   39  ssh -T git@github.com
+   40  ls -la
+   41  ssh -T git@github.com
+   42  cd ..
+   43  cd ~/Doc
+   44  cd ~/Documents/IYTE-Git-test
+   45  ls -la
+   46  rv -R .git
+   47  rm -R .git
+   48  ls -la
+   49  rm -r .git
+   50  ls -la
+   51  git flow init
+   52  ls -la
+   53  git status
+   54  ls -la
+   55  nano /etc/rc.local
+   56  nano /etc/init
+   57  nano /etc/init/lightdm.conf
+   58  reboot
+   59  sudo reboot
+   60  nano /etc/environment
+   61  nano /etc/default/locale
+   62  nano /etc/environment
+   63  nano /etc/default/locale
+   64  s -la
+   65  ls -la
+   66  nano /etc/default/locale
+   67  ///'''[[[[\nls -la\nexit\n;\n\n\nq\nquit\nexit\n'
+   68  nano /etc/environment
+   69  nano /etc/default/locale
+   70  ahşşşişippp
+   71  ls -la
+   72  nano /etc/default/useradd
+   73  nano /etc/default/locale
+   74  ls -la
+   75  sudo add-apt-repository ppa:eugenesan/ppa
+   76  sudo apt-get update
+   77  ls -la
+   78  sudo apt-get update
+   79  sudo apt-get install smartgithg
+   80  shutdown -r now
+   81  sudo shurdown -h now
+   82  sudo shutdown -h now
+   83  su -
+   84  sudo shutdown -h now
+   85  git
+   86  ls
+   87  mk gitdenemeleri
+   88  mkdir gitdenemeleri
+   89  ls -la
+   90  ls
+   91  cd gitdenemeleri
+   92  ls -la
+   93  sudo apt-get install git
+   94  ls -la
+   95  history
+   96  history >> tarih
+   97  ls -la
+   98  pico tarih
+   99  mkdir kripton
+  100  cd kripton
+  101  ls -la
+  102  git init
+  103  ls -la
+  104  ll
+  105  ll .git/
+  106  ls -la .git
+  107  git config --global user.email "ahmetaksit@gmail.com"
+  108  git config --global user.name "ahmetaksit"
+  109  ls
+  110  vim freesoftware.py
+  111  pico freesoftware.py
+  112  ls -la
+  113  git status
+  114  git commit -s -v
+  115  git commit -help
+  116  git commit -s -v
+  117  git commit -help
+  118  git commit -s -v
+  119  git commit -m "kripton added file"
+  120  git add freesoftware.py
+  121  git status
+  122  git commit -s -v
+  123  git commit -m "kripton added file"
+  124  git status

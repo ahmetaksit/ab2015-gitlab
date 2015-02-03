@@ -1,1 +1,1 @@
-Deneme git satırı
+print "Ozgur Yazılım Ulan"
